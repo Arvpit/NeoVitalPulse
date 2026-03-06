@@ -7,7 +7,7 @@
 
 ### Model Prediction
 ![Prediction](prediction1.png)
-![Prediction](frontend2.png)
+![Prediction](fronend2.png)
 
 ### Model Accuracy
 ![Accuracy](accuracy.jpeg)
