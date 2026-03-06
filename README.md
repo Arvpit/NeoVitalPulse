@@ -1,5 +1,16 @@
 # ❤️ NeoVitalPulse – Heart Disease Prediction System
+## 📸 Project Screenshots
 
+### Frontend Interface
+![Frontend](frontend1.jpg)
+![Frontend](frontend2.jpg)
+
+### Model Prediction
+![Prediction](prediction1.jpg)
+![Prediction](prediction2.jpg)
+
+### Model Accuracy
+![Accuracy](accuracy.jpg)
 NeoVitalPulse is a Machine Learning based healthcare prediction system that analyzes patient medical data to predict the risk of heart disease.
 
 Heart disease remains one of the leading causes of death worldwide. Early detection can significantly reduce mortality rates. This project uses machine learning algorithms to analyze medical attributes and predict whether a person is likely to develop heart disease.
