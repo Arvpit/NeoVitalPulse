@@ -10,7 +10,11 @@
 ![Prediction](fronend2.png)
 
 ### Model Accuracy
-![Accuracy](accuracy.jpeg)
+<p align="center">
+  <img src="accuracy.jpeg" width="600"/>
+</p>
+
+The machine learning model achieved 92% accuracy using Logistic Regression.
 NeoVitalPulse is a Machine Learning based healthcare prediction system that analyzes patient medical data to predict the risk of heart disease.
 
 Heart disease remains one of the leading causes of death worldwide. Early detection can significantly reduce mortality rates. This project uses machine learning algorithms to analyze medical attributes and predict whether a person is likely to develop heart disease.
